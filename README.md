@@ -9,9 +9,3 @@ Explanations of technical topics relating to both my day job and personal projec
 /projects    <- Architectural choices and problems overcome in my personal projects
 /articles    <- More general thoughts / writing
 ```
-```
-```
-```
-```
-```
-```
