@@ -16,4 +16,4 @@ Whilst this did work initially, it always seemed to forget about it's constraint
 
 The next method I'm trialling, is getting it to generate things I might need before the project, and then only referring to these outputs and nothing else. The two parts I'm generating are a Roadmap, which splits the project up into phases, specifically detail what needs to be implemented in order for a phase to be completed. I am also generating comprehensive test cases, which run at then end of each phase, to let me know if I have been successful. Apart from this, no other AI use will be permitted.
 
-I am currently using the framework above, and will report back with my findings!
+I am currently using the framework above, and will report back with my findings - you can find my current prompt [here](../misc/ai-learning-framework.md)
