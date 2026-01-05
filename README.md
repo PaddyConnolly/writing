@@ -12,4 +12,5 @@ Explanations of technical topics relating to both my day job and personal projec
 /payments    <- All things card processing and fintech domain knowledge
 /projects    <- Architectural choices and problems overcome in my personal projects
 /articles    <- More general thoughts / writing
+/misc        <- Miscellaneous notes
 ```
