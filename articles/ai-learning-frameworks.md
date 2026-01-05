@@ -1,4 +1,4 @@
-# How can I use AI most effectively early in my career?
+## How can I use AI most effectively early in my career?
 
 I've been experimenting with different AI tools in software engineering over the last few years, and I think it's now quite clear that these tools are here to stay, and software engineers will have to make big changes to their workflows in order to incorporate the benefits of AI into their work.
 
@@ -6,7 +6,7 @@ However, I keep hearing what I believe is a massive misconception – that juni
 
 We have the benefit of growing up with these tools, and like every generation that grows up with a technology, there seems to be a natural ability that comes with it. I believe that we may be able to derive a slightly larger benefit on a level playing field. The point people are missing is how do we get ourselves to this level playing field. I see hundreds of people online, who believe that they need to be on top of the next AI trend, in order to 'out-build' senior developers with years more experience – these junior developers are building products which are attempting to rival startups at speeds which I could never dream of competing with. But as they build better and better products, super-charged by AI, I tend to think that they lose out on the main purpose, the reason that everyone started building these side projects in the first place – the learning. People didn't build these side projects to attempt to out-do senior programmers, they did it to learn the skills so they could give themselves a chance to compete in the future. We put ourselves in far more danger of being replaced if we outsource our learning in order to build projects slightly quicker in the short term.
 
-# We all know how to speed up coding - how do we speed up learning?
+## We all know how to speed up coding - how do we speed up learning?
 
 I've been trying to test out a couple of different ways of development with AI while trying to optimise exclusively for learning.
 
