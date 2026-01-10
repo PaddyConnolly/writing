@@ -1,6 +1,6 @@
 # ✍️ Technical Writing
 
-Explanations of technical topics relating to both my work and personal projects. Mainly to help formulate my own ideas and practice good technical writing.
+Explanations of technical topics relating to both my work and personal projects. Mainly to help formulate my own ideas and practice good technical writing. Note that there may lots of incorrect information, as I'm using this to outline my own interpretation of concepts, and to spot holes in my understanding.
 
 ## 💡 Newest Article
 
