@@ -12,5 +12,6 @@ Explanations of technical topics relating to both my work and personal projects.
 /payments    <- All things card processing and fintech knowledge
 /projects    <- Architectural choices and problems solved in my personal projects
 /articles    <- More general thoughts / writing
+/rust        <- Writeups on Rust, mainly to find out what I understand
 /misc        <- Miscellaneous notes
 ```
