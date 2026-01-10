@@ -30,4 +30,4 @@ For example, the RESP parser in my Redis clone was very easy to implement with p
 
 ### Errors
 
-Rust's pattern matching is also a useful tool for error handling, which I'll talk about more in [errors.md](https://github.com/PaddyConnolly/writing/rust/errors.md).
+Rust's pattern matching is also a useful tool for error handling, which I'll talk about more in [errors.md](errors.md).
