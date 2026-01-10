@@ -8,7 +8,7 @@ However, as I've progressed with my projects, I keep encountering different tool
 
 ### Options and Results
 
-Rust provides two enums which help you to implement intended behaviour when dealing with values which are uncertain at compile time. The first, `Option``, is found in languages which I've used before, they simply indicate a variable could have a value, or it could not (usually indicated with None, Nil or Null - Rust uses `None``). These are useful for avoiding errors, as in order to use the value, you also have to decide what should happen if you don't get a value.
+Rust provides two enums which help you to implement intended behaviour when dealing with values which are uncertain at compile time. The first, `Option`, is found in languages which I've used before, they simply indicate a variable could have a value, or it could not (usually indicated with None, Nil or Null - Rust uses `None``). These are useful for avoiding errors, as in order to use the value, you also have to decide what should happen if you don't get a value.
 
 The second enum is a Result, which wasn't anything that I had encountered before. It seems similar to an Option at first, and a lot of my early struggles were down to confusing the two. A Result means you could have a value, or you could have an Error. A Result is an enum with two branches: `Ok()` and `Err()`. This makes it easy to pattern match and decide what your program should do depending on the value it gets.
 
