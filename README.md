@@ -1,6 +1,6 @@
 # ✍️ Technical Writing
 
-Explanations of technical topics relating to both my day job and personal projects. Mainly to help formulate my own ideas and practice good technical writing.
+Explanations of technical topics relating to both my work and personal projects. Mainly to help formulate my own ideas and practice good technical writing.
 
 ## 💡 Newest Article
 
@@ -9,8 +9,8 @@ Explanations of technical topics relating to both my day job and personal projec
 ## Structure
 
 ```
-/payments    <- All things card processing and fintech domain knowledge
-/projects    <- Architectural choices and problems overcome in my personal projects
+/payments    <- All things card processing and fintech knowledge
+/projects    <- Architectural choices and problems solved in my personal projects
 /articles    <- More general thoughts / writing
 /misc        <- Miscellaneous notes
 ```
