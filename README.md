@@ -15,3 +15,6 @@ Explanations of technical topics relating to both my work and personal projects.
 /rust        <- Writeups on Rust, mainly to find out what I understand
 /misc        <- Miscellaneous notes
 ```
+
+---
+*These notes are written in a personal capacity and do not reflect the views of my employer.*
