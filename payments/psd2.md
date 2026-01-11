@@ -34,7 +34,7 @@ This part is similar to the above, it dictates that customers of the traditional
 
 ### Fee Transparency
 
-This was the big one we dealt with at FIS. This meant that there were much stricter rules on what fees could be charged and how any changes had to be communicated to the user. For us, it meant that any changes we did involving fees usually got put on hold for a couple of months, as they had to give the users ~60 days notice of any changes.
+This meant that there were much stricter rules on what fees could be charged and how any changes had to be communicated to the user. For us, it meant that any changes we did involving fees usually got put on hold for a couple of months, as they had to give the users ~60 days notice of any changes.
 
 ### Surcharge Ban
 
